@@ -1,0 +1,5 @@
+package eat
+
+func useBathroom() {
+	// 🚽
+}
